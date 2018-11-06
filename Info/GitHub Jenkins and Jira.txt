@@ -1,7 +1,0 @@
-All the automation code checkedin in PAR GitHub
-All the Platinium Compliance portal test cases migrated in Jira
-Development team is setting up PAR Jira for new development.
-Development team checkedin all the Platinium Compliance portal code in PAR GitHub
-All Selenium smoke test, regression test and service test are ready for Jenkins DevOps process.
-
-Working with DevOps developer to add Automated scripts at the end of the build jobs.
